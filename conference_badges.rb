@@ -21,5 +21,6 @@ end
 
 def printer(array)
   badges = batch_badge_creator(array)
-  puts badges
+  for i in badges 
+    puts i 
 end
