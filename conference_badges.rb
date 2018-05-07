@@ -28,6 +28,8 @@ def printer(array)
   end 
     
   1..rooms.length.each do |x|
+    puts x 
+  end 
   
   
 end
