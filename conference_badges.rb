@@ -30,6 +30,4 @@ def printer(array)
   rooms.each do |x|
     puts x 
   end 
-  
-  
 end
